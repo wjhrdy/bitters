@@ -8,5 +8,7 @@ html
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
     .container
-      .sixteen.columns
+      .ten.columns
         block content
+      .five.columns.offset-by-one.sidebar
+        include sidebar.jade
