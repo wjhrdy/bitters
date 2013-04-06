@@ -5,7 +5,7 @@ Bitters is a simple-as-possible single page Node.js website.
 
 ### Installation
 
-	$ git clone 
+	$ git clone git@gitboria.com:ev/bitters.git
 	$ cd bitters
 	$ npm install
 	$ node app.js
