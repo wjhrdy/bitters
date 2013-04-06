@@ -1,8 +1,21 @@
+Quick Jam NYC
 
-This is the content of Bitters. Feel free to write anything you want into this markdown file. It will display on Bitters.
+It's almost eleven on Saturday, 6 April 2013.
 
-To edit this content, open content.md on your computer.
+I hear a plane overhead. I felt the G-train. I woke up in a puddle of my own drool.
 
-Type markdown into the file, and hit save!
+Yesterday I met with Marius, the ghost of Biggie and a cup of coffee I drank, the donut I didn't. Actually, he ate more donut than I did. It was a good conversation, but otr. As anything worth talking about these days is.
 
-Content will update automagically, if your server is running. It renders the markdown and jade on the fly.
+Then, I got back to the apartment, laid down for a few minutes but mind was going so fast I decided to walk it off.
+
+Walked to Manhattan, by going through Hasidic Jewville once again, and then crossed the bridge by foot. It was a spectacular day. The light.
+
+Then, got back. Ross and Anne were here. Ross had taken a seventeen hour flight to get here and he's here for the entire month. This'll be good. Most of it otr, as with Marius.
+
+Because, actually, I'm finding it better to let things percolate here rather than just add it to the status update page. Speaking of percolate. Bitters.
+
+Continued work on Bitters by talking with them about what it would be like if it were ideal for them too. Nailed the Git beat.
+
+After chicken quesadillas, laid down my head and began creating the drool puddle in which I awoke.
+
+Gwen
