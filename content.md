@@ -34,10 +34,10 @@ When you deploy Bitters, you'll have the leverage you need to finally get that r
 
 Deploy Bitters is a 31 page guide containing the step-by-step instructions you need to deploy Bitters on your local machine and/or to your VPS.
 
-<button>Buy Now | $17</button>
+<a href="http://evbogue.fetchapp.com/sell/ometagee/ppc"><button>Buy Now | $17</button></a>
 
 ### Email Support
 
 Get Deploy Bitters and 31 days of deployment support over email from the Bitters team, Gwen Bell + Ev Bogue.
 
-<button>Buy Now | $57</button>
+<a href="http://evbogue.fetchapp.com/sell/gaijurae/ppc"><button>Buy Now | $57</button></a>
