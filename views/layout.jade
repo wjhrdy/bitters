@@ -9,8 +9,15 @@ html
     link(rel='stylesheet', href='/stylesheets/layout.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
   body
+    .container.navbar.navbar-top
+      .ten.columns.offset-by-two
+        ul
+          li 
+            a(href='/') Home
+          li 
+            a(href='http://github.com/evbogue/bitters') Git
     .container
-      .ten.columns
+      .ten.columns 
         block content
       .five.columns.offset-by-one.sidebar
         include sidebar.jade
