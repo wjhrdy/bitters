@@ -1,4 +1,4 @@
-"The medicine you need to make the centralized Internet go down."
+> "The medicine you need to make the centralized Internet go down."
 
 ### What is Bitters?
 
