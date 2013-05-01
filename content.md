@@ -28,16 +28,27 @@ When you deploy Bitters, you'll have the leverage you need to finally get that r
 
 ### Deploy Bitters for free
 
-[Clone the repo for free](https://github.com/evbogue/bitters)
+You can download the Bitters open source Git repository right now and try Bitters yourself. If you have any trouble, check out the resources below.
+
+<a href="https://github.com/evbogue/bitters"><button>Git Clone</button></a>
+
+<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><img src="http://writing.evbogue.com/images/deploy.jpg" class="profile" style="width: 30%; float: right; margin-left: 1em;"></a>
 
 ### Buy Deploy Node
 
-Deploy Node teaches you everything you need to know to deploy Bitters to your own VPS. 
+#### By [Ev Bogue](http://evbogue.com/)
+
+Deploy Node teaches you everything you need to know to deploy Bitters to your own VPS. Read and work through step-by-step instructions as you learn the ins-and-outs of Node.js, Express, Jade, Stylus and how all of these elements come together in Bitters. [Learn more](http://deployno.de)
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button>Buy Now | $37</button></a>
 
-### Email Support
+<a href="http://gwenbell.fetchapp.com/sell/yiniekoh/ppc"><img src="http://git.gwenbell.com/images/git-commit-cover.jpg" class="profile" style="width: 30%; float: right; margin-left: 1em;"></a>
 
-Get Deploy Node and 31 days of deployment support over email from the Bitters team.
+### Buy Git Commit
 
-<a href="http://evbogue.fetchapp.com/sell/gaijurae/ppc"><button>Buy Now | $97</button></a>
+#### By [Gwen Bell](http://gwenbell.com.)
+
+Git Commit teaches you everything you need to know to use Git to maintain Bitters on your VPS. Git comes straight from the mind of Linus Torvalds to your command line where you'll learn everything you need to know as maintain and distributed your content using Bitters. [Learn more](http://git.gwenbell.com/)
+
+<a href="http://gwenbell.fetchapp.com/sell/yiniekoh/ppc"><button>Buy Now | $39</button></a>
+
