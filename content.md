@@ -48,7 +48,7 @@ Deploy Node teaches you everything you need to know to deploy Bitters to your ow
 
 #### By [Gwen Bell](http://gwenbell.com.)
 
-Git Commit teaches you everything you need to know to use Git to maintain Bitters on your VPS. Git comes straight from the mind of Linus Torvalds to your command line where you'll learn everything you need to know as maintain and distributed your content using Bitters. [Learn more](http://git.gwenbell.com/)
+Git Commit teaches you to use Git to maintain Bitters on your VPS. Git comes straight from the mind of Linus Torvalds to your command line where you'll learn everything you need to know as maintain and distributed your content using Bitters. [Learn more](http://git.gwenbell.com/)
 
 <a href="http://gwenbell.fetchapp.com/sell/yiniekoh/ppc"><button>Buy Now | $39</button></a>
 
