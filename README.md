@@ -1,7 +1,7 @@
 Bitters
 =======
 
-Bitters is a simple-as-possible single page Node.js website.
+Bitters is a simple-as-possible realtime Node.js website built using Express, Jade, Stylus, and Skeleton.
 
 ### Installation
 
