@@ -1,11 +1,11 @@
 Bitters
 =======
 
-Bitters is a simple-as-possible realtime Node.js website built using Express, Jade, Stylus, and Skeleton.
+Bitters is a simple-as-possible real-time Node.js website built using Express, Jade, Stylus, and Skeleton.
 
 ### Installation
 
-	$ git clone git@github.com:evbogue/bitters.git
+	$ git clone https://github.com/evbogue/bitters.git
 	$ cd bitters
 	$ npm install
 	$ node app.js
