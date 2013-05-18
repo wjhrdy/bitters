@@ -4,17 +4,17 @@
 
 You're looking at Bitters right now.
 
-Bitters is a simple-as possible Git-based website built with Express, Jade, Stylus and deployed using Node.js.
+Bitters is a simple-as possible website built with Express, Jade, Stylus and deployed using Node.js.
 
-Bitters uses Git as a replacement for bulky CMSes. Use your favorite text editor to write, publish, and deploy your work to the web.
+Bitters uses Git as a replacement for bulky CMSes. You maintain your content using Git. Use your favorite text editor to write, publish, and deploy your work to the web.
 
 ### Why Bitters?
 
-Bitters came into being as a reaction to the ongoing frustration with 'user-friendly' website 'solutions'. 
-
-We use Bitters because we know the only way to have the freedom to express ourselves online is to know our full stack.
-
 Bitters acknowledges when we abstract away 'the hard stuff', we also lose the magic of publishing to the web. By learning how to deploy ourselves, we gain freedom and independence on the distributed web.
+
+Bitters came into being as a reaction to Gwen and Ev's ongoing frustration with 'user-friendly' website 'solutions'. 
+
+Those of use using Bitters do so because we know the only way to have the freedom to express ourselves online is to know our full stack.
 
 ### What do I need to run Bitters?
 
@@ -22,13 +22,11 @@ You'll need a VPS (virtual private server) with root access running Linux or Mac
 
 ### What do I need to know?
 
-Using Bitters you'll learn how to [use Git](http://git.gwenbell.com) to [deploy Node.js](http://deployno.de) to the distributed web. By the time you've deployed Bitters, you'll know how to use Node.js and Git for more than just maintaining your website. 
-
-When you deploy Bitters, you'll have the leverage you need to finally get that raise or tech job in DUMBO you've always wanted.
+Using Bitters you'll get practice [using Git](http://git.gwenbell.com) in a deployment environment, and how to [deploy Node.js](http://deployno.de) to the distributed web. By the time you've deployed Bitters, you'll have a grasp of how to use Node.js and Git.
 
 ### Deploy Bitters for free
 
-You can download the Bitters open source Git repository right now and try Bitters yourself. If you have any trouble, check out the resources below.
+Download the Bitters open source Git repository right now and try Bitters yourself. If you have any trouble, check out the resources below.
 
 <a href="https://github.com/evbogue/bitters"><button>Git Clone</button></a>
 
@@ -48,7 +46,7 @@ Deploy Node teaches you everything you need to know to deploy Bitters to your ow
 
 #### By [Gwen Bell](http://gwenbell.com.)
 
-Git Commit teaches you to use Git to maintain Bitters on your VPS. Git comes straight from the mind of Linus Torvalds to your command line where you'll learn everything you need to know as maintain and distributed your content using Bitters. [Learn more](http://git.gwenbell.com/)
+Git Commit teaches you how to use Git to maintain Bitters on your VPS. Why Git and not another CMS? Because Gwen has tried them all and none of them are replacements for rolling your own. [Learn more](http://git.gwenbell.com/)
 
 <a href="http://gwenbell.fetchapp.com/sell/yiniekoh/ppc"><button>Buy Now | $37</button></a>
 
