@@ -10,6 +10,9 @@ Bitters uses Git as a replacement for bulky CMSes. You maintain your content usi
 
 ### Why Bitters?
 
+> "I installed bitters a couple of days ago. I went "wooooaaaoooow" like Keanu Reeves. Like taking acid for the first time.
+Just 4 lines of code immersed me in all these new technologies –git, node, markdown– stuff I'd only toyed with before." -[Marc Eglon](http://eglon.net), June 2013
+
 Bitters acknowledges when we abstract away 'the hard stuff', we also lose the magic of publishing to the web. By learning how to deploy ourselves, we gain freedom and independence on the distributed web.
 
 Bitters came into being as a reaction to Gwen and Ev's ongoing frustration with 'user-friendly' website 'solutions'. 
