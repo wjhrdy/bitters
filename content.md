@@ -17,7 +17,7 @@ Bitters acknowledges when we abstract away 'the hard stuff', we also lose the ma
 
 Bitters came into being as a reaction to Gwen and Ev's ongoing frustration with 'user-friendly' website 'solutions'. 
 
-Those of use using Bitters do so because we know the only way to have the freedom to express ourselves online is to know our full stack.
+Those of us using Bitters do so because we know the only way to have the freedom to express ourselves online is to know our full stack.
 
 ### What do I need to run Bitters?
 
@@ -33,13 +33,13 @@ Download the Bitters open source Git repository right now and try Bitters yourse
 
 <a href="https://github.com/evbogue/bitters"><button>Git Clone</button></a>
 
-<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><img src="http://writing.evbogue.com/images/deploy.jpg" class="profile" style="width: 30%; float: right; margin-left: 1em;"></a>
+<a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><img src="http://www.evbogue.com/images/deploy.jpg" class="profile" style="width: 30%; float: right; margin-left: 1em;"></a>
 
 ### Buy Deploy Node
 
 #### By [Ev Bogue](http://evbogue.com/)
 
-Deploy Node teaches you everything you need to know to deploy Bitters to your own VPS. Read and work through step-by-step instructions as you learn the ins-and-outs of Node.js, Express, Jade, Stylus and how all of these elements come together in Bitters. [Learn more](http://deployno.de)
+Deploy Node teaches you everything you need to know to deploy Bitters to your own VPS. Read and work through step-by-step instructions as you learn the ins-and-outs of Node.js, Express, Jade, Stylus and how all of these elements come together in Bitters. [Learn more](http://deploy.evbogue.com)
 
 <a href="http://evbogue.fetchapp.com/sell/sfasaixe/ppc"><button>Buy Now | $37</button></a>
 
