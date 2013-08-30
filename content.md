@@ -1,2 +1,1 @@
-### this is a test
-
+I like computers _a lot_. I'm _half_ British, my mom was British. I do _biking_ and _yoga_. I'm not very competitive. I don't really like when people smoke cigarettes (especially my friends). I like to hang out with friends and potentially new friends. It's hard to tell if I'm being sarcastic. I like _graphic design_. I have cousins in lots of places. I like listening to audio books as opposed to reading audio books. My mom died when I was in 5th grade from a brain tumor. I have the best big sister ever. I grew up in Boylan Heights. I like to do random foreign accents all the time. Singing is my favorite past time.

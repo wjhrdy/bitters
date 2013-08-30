@@ -4,20 +4,36 @@ html
     meta(name="viewport", content="width=device-width, initial-scale=1, maximum-scale=1")
     link(rel='shortcut icon', href='/images/bitters.jpg')
     title= title
-    link(rel='stylesheet', href='/stylesheets/base.css')
-    link(rel='stylesheet', href='/stylesheets/skeleton.css')
-    link(rel='stylesheet', href='/stylesheets/layout.css')
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='/stylesheets/wf.css')
   body
-    .container.navbar.navbar-top
-      .ten.columns.offset-by-two
-        ul
-          li 
-            a(href='/')= title
-          li 
-            a(href='http://github.com/evbogue/bitters') Git
-    .container
-      .ten.columns 
-        block content
-      .five.columns.offset-by-one.sidebar
-        include sidebar.jade
+    header
+      #header_inner
+        a.logo(href='/')
+          img(src="/images/willyhardy", style="max-height:50%;")
+    #story
+      #hero_mask(style="height:600px;")
+        #hero_image.right(style="background-image: url(/images/top.jpg);")
+        #header_big_outer
+          #header_big_inner
+            h1= title
+
+      #content
+        .body_text.c_title
+          h1.story_title= title
+          .body_text.c_subline
+            h2.story_subtitle.body_text= subtitle
+            .subtitle_line_container
+              .subtitle_line
+        .body_text.c_body
+          p.body
+            block content
+
+        //- .diagram_image.landscape
+        //-   img(src='https://assets.wantful.com/ipad/afbaba58967ceaf2d81dd4ab09209139.jpg')
+
+        //- .diagram_caption.serif.italic
+        //-   p
+        //-     | “I think the entrepreneurial spirit and the creative spirit is contagious,” Brett says. “And with Nick and Dan, the more you get to know them you just see that they're not really fulfilled unless they’re making something.”
+
+        //- .diagram_image.portrait
+        //-   img(src='https://assets.wantful.com/ipad/620c4f5fb86d0079b963a3b7ee5e62b4.jpg')
